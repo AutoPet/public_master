@@ -18,7 +18,7 @@
 
 ## CHECKPOINT 1: READY TO BUILD
 - [ ] Checkpoint Reached :)
-
+<p>&nbsp;</p>
 
 ### Nov 12
 - [ ] Setup coding env for Android and Apple cross-platform app dev
@@ -36,7 +36,8 @@
 - [ ] First physical prototype assembly (only arduino, servos, and feed level sensors)
 
 ## CHECKPOINT 2: FIRST PROTOTYPE
-- [ ] Checkpoint Reached :)) 
+- [ ] Checkpoint Reached :))   
+<p>&nbsp;</p>
 
 ### Nov 24
 - [ ] Test Task Automation Scheduling Feature on apps
