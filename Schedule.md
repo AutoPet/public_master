@@ -15,11 +15,13 @@
 ### Nov 11
 - [ ] Set up parts list (sensors, 3d printed comps, actuators)
 - [ ] Set up software requirements
+<p>&nbsp;</p>
 
 ## CHECKPOINT 1: READY TO BUILD
 - [ ] Checkpoint Reached :)
 <p>&nbsp;</p>
 
+## 
 ### Nov 12
 - [ ] Setup coding env for Android and Apple cross-platform app dev
 - [ ] Begin Arduino Pseudo Code
@@ -34,10 +36,12 @@
 
 ### Nov 23
 - [ ] First physical prototype assembly (only arduino, servos, and feed level sensors)
+<p>&nbsp;</p>
 
 ## CHECKPOINT 2: FIRST PROTOTYPE
 - [ ] Checkpoint Reached :))   
 <p>&nbsp;</p>
 
+## 
 ### Nov 24
 - [ ] Test Task Automation Scheduling Feature on apps
