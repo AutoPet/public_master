@@ -1,3 +1,3 @@
 # public_master
 
-### susan is the master
+### susan is lackin
